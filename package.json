@@ -1,0 +1,28 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk868208/my-new-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk868208/my-new-project/issues"
+  },
+  "homepage": "https://github.com/pk868208/my-new-project#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "should": "^12.0.0",
+    "supertest": "^3.0.0"
+  }
+}
